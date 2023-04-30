@@ -34,12 +34,12 @@ class Model:
         )
         return prompt
 
-    def generateIndex(self,filename="data/PracticeGuidelines/Diagnositic/txt/1Test"):
+    def generateIndex(self,index_name, filename="data/PracticeGuidelines/Diagnositic/txt/1Test"):
         loader = DirectoryLoader(filename, glob="*.txt")
         documents = loader.load()
         text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
         docs = text_splitter.split_documents(documents)
-        rds = Chroma.from_documents(documents=docs, embedding=self.embeddings, persist_directory="index")
+        rds = Chroma.from_documents(documents=docs, embedding=self.embeddings, persist_directory=indexname)
         rds.persist()
         rds = None
         print("Index Created")

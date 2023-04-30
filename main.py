@@ -1,4 +1,3 @@
-import openai
 import os
 from dotenv import load_dotenv
 #load_dotenv()
@@ -24,11 +23,14 @@ def get_bot_response():
     userText = request.args.get('msg')
     return runModel(userText)
 
-def runModel(query):
-    #AlpacaModel().generateIndex()
+def runModel(query,gen_ndx=False):
+    if gen_ndx:
+        for i in range(0,10): 
+            AlpacaModel().generateIndex(f"index{i}",f"data/PracticeGuidelines/Diagnositic/txt/{i}Test")
 
     AlpacaModel().run(query)
 
 
 if __name__ == "__main__":
-    runModel("A 56-year-old woman presents with a history of large palpable left breast mass.")
+    
+    runModel("A 56-year-old woman presents with a history of large palpable left breast mass.",True)
