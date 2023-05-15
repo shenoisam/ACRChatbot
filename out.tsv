@@ -1,0 +1,549 @@
+data/acrguidelines/txt/ChildAbuse.txt,Child Abuse
+data/acrguidelines/txt/ChildAbuse.txt,Child Abuse
+data/acrguidelines/txt/Sinusitis.txt,Sinusitis
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/LowerExtremityChronicVenousDisease.txt,Chronic Venous Disease
+data/acrguidelines/txt/Dementia.txt,Dementia
+data/acrguidelines/txt/Dementia.txt,Dementia
+data/acrguidelines/txt/StagingRenalCellCarcinoma.txt,Renal Cell Carcinoma
+data/acrguidelines/txt/StagingRenalCellCarcinoma.txt,Renal Cell Carcinoma
+data/acrguidelines/txt/StagingRenalCellCarcinoma.txt,Renal Cell Carcinoma
+data/acrguidelines/txt/OrbitVisionVisualLoss.txt,Vision Loss
+data/acrguidelines/txt/OrbitVisionVisualLoss.txt,Vision Loss
+data/acrguidelines/txt/LowerDVT.txt,Lower Extremity Deep Vein Thrombosis
+data/acrguidelines/txt/SusOsteomyelitisDM.txt,Osteomyelitis
+data/acrguidelines/txt/SusOsteomyelitisDM.txt,Osteomyelitis
+data/acrguidelines/txt/ThoracoabdominalAneurysmDissection.txt,Aneurysm Dissection
+data/acrguidelines/txt/ThoracoabdominalAneurysmDissection.txt,Aneurysm Dissection
+data/acrguidelines/txt/ThoracoabdominalAneurysmDissection.txt,Aneurysm Dissection
+data/acrguidelines/txt/ThoracoabdominalAneurysmDissection.txt,Aneurysm Dissection
+data/acrguidelines/txt/AbnormalUterineBleeding.txt,Uterine Bleeding
+data/acrguidelines/txt/AbnormalUterineBleeding.txt,Uterine Bleeding
+data/acrguidelines/txt/AbnormalUterineBleeding.txt,Uterine Bleeding
+data/acrguidelines/txt/SuspectedSpineTraumaChild.txt,Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTraumaChild.txt,Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTraumaChild.txt,Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTraumaChild.txt,Spine Trauma
+data/acrguidelines/txt/Postpartumhemorrhage.txt,Post partum hemorrhage
+data/acrguidelines/txt/Postpartumhemorrhage.txt,Post partum hemorrhage
+data/acrguidelines/txt/Postpartumhemorrhage.txt,Post partum hemorrhage
+data/acrguidelines/txt/Postpartumhemorrhage.txt,Post partum hemorrhage
+data/acrguidelines/txt/OsteomyelitisSepticArthrirs.txt,Osteomyelitis and Septic Arthritis
+data/acrguidelines/txt/OsteomyelitisSepticArthrirs.txt,Osteomyelitis and Septic Arthritis
+data/acrguidelines/txt/OsteomyelitisSepticArthrirs.txt,Osteomyelitis and Septic Arthritis
+data/acrguidelines/txt/OsteomyelitisSepticArthrirs.txt,Osteomyelitis and Septic Arthritis
+data/acrguidelines/txt/OsteomyelitisSepticArthrirs.txt,Osteomyelitis and Septic Arthritis
+data/acrguidelines/txt/MesentericIschemia.txt,Mesenteric Ischemia
+data/acrguidelines/txt/ICUPatients.txt,ICU patients
+data/acrguidelines/txt/ICUPatients.txt,ICU patients
+data/acrguidelines/txt/ICUPatients.txt,ICU patients
+data/acrguidelines/txt/InfectiveEndocarditis.txt,Infective Endocarditis
+data/acrguidelines/txt/InfectiveEndocarditis.txt,Infective Endocarditis
+data/acrguidelines/txt/NonatheroscleroticPeripheralArterialDisease.txt,Nonatherosclerotic Peripheral Arterial Disease
+data/acrguidelines/txt/NonatheroscleroticPeripheralArterialDisease.txt,Nonatherosclerotic Peripheral Arterial Disease
+data/acrguidelines/txt/NoncerebralVascultitis.txt,Noncerebral Vascultitis
+data/acrguidelines/txt/NoncerebralVascultitis.txt,Noncerebral Vascultitis
+data/acrguidelines/txt/UEDVT.txt,Upper Extremity Deep Vein Thrombosis
+data/acrguidelines/txt/LowerUTBPHSus.txt,Lower urinary tract symptoms secondary to probable benign prostatic hyperplasia 
+data/acrguidelines/txt/Plexopathy.txt,Plexopathy
+data/acrguidelines/txt/Plexopathy.txt,Plexopathy
+data/acrguidelines/txt/Plexopathy.txt,Plexopathy
+data/acrguidelines/txt/RecurrentLowerUTI.txt,Recurrent Lower Urinary Tract Infection
+data/acrguidelines/txt/Fibroids.txt,Fibroids
+data/acrguidelines/txt/Fibroids.txt,Fibroids
+data/acrguidelines/txt/ChronicKneePain.txt,Chronic Knee Pain
+data/acrguidelines/txt/ChronicKneePain.txt,Chronic Knee Pain
+data/acrguidelines/txt/AcuteKneeTrauma.txt,Acute Knee Trauma
+data/acrguidelines/txt/AcuteKneeTrauma.txt,Acute Knee Trauma
+data/acrguidelines/txt/AcuteKneeTrauma.txt,Acute Knee Trauma
+data/acrguidelines/txt/AcuteKneeTrauma.txt,Acute Knee Trauma
+data/acrguidelines/txt/SeizuresChild.txt,Seizures in Children
+data/acrguidelines/txt/SeizuresChild.txt,Seizures in Children
+data/acrguidelines/txt/SeizuresChild.txt,Seizures in Children
+data/acrguidelines/txt/hearingLoss&Vertigo.txt,Hearing Loss and Vertigo 
+data/acrguidelines/txt/hearingLoss&Vertigo.txt,Hearing Loss and Vertigo 
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass 
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass 
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass 
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass 
+data/acrguidelines/txt/AsymptomaticAdnexalMass.txt,Asymptomatic Adnexal Mass 
+data/acrguidelines/txt/PulmonaryArteriovenousMalformation.txt,Pulmonary Arteriovenous Malformation
+data/acrguidelines/txt/PulmonaryArteriovenousMalformation.txt,Pulmonary Arteriovenous Malformation
+data/acrguidelines/txt/AcuteOnsetFlankPain.txt,Acute Onset Flank Pain
+data/acrguidelines/txt/AcuteOnsetFlankPain.txt,Acute Onset Flank Pain
+data/acrguidelines/txt/AcuteOnsetFlankPain.txt,Acute Onset Flank Pain 
+data/acrguidelines/txt/ChronicLiverDisease.txt,Chronic Liver Disease
+data/acrguidelines/txt/ChronicLiverDisease.txt,Chronic Liver Disease
+data/acrguidelines/txt/ChronicLiverDisease.txt,Chronic Liver Disease
+data/acrguidelines/txt/DiffuseLungDIsease.txt,Diffuse Lung Disease, 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/VertebralCompressionFractures.txt,Vertebral Compression Fractures 
+data/acrguidelines/txt/Tinnitus.txt,Tinnitus 
+data/acrguidelines/txt/Tinnitus.txt,Tinnitus 
+data/acrguidelines/txt/Tinnitus.txt,Tinnitus
+data/acrguidelines/txt/FeverWithoutSourceorUnknownOrigin-Child.txt,Fever 
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/CerebrovascularDiseaseAneurysm.txt, Cerebrovascular Disease Aneurysm
+data/acrguidelines/txt/Growth Disturbances–Risk of Fetal Growth Restriction.txt, 
+data/acrguidelines/txt/ProstateCancerDetection.txt,Prostate Cancer 
+data/acrguidelines/txt/ProstateCancerDetection.txt,Prostate Cancer
+data/acrguidelines/txt/ProstateCancerDetection.txt,Prostate Cancer
+data/acrguidelines/txt/ProstateCancerDetection.txt,Prostate Cancer
+data/acrguidelines/txt/OvarianCancerScreening.txt, Ovarian Cancer Screening
+data/acrguidelines/txt/RenalFailure.txt, Renal Failure 
+data/acrguidelines/txt/RenalFailure.txt, Renal Failure
+data/acrguidelines/txt/NonspecificChestPain.txt, Nonspecific Chest pian
+data/acrguidelines/txt/PneumoniaImmunocompetent.txt, Pneumonia
+data/acrguidelines/txt/PneumoniaImmunocompetent.txt, Pneumonia
+data/acrguidelines/txt/PneumoniaImmunocompetent.txt, Pneumonia
+data/acrguidelines/txt/PneumoniaImmunocompetent.txt, Pneumonia
+data/acrguidelines/txt/AAAInterventionalPlanning.txt, Abdominal Aortic Aneurysm 
+data/acrguidelines/txt/VaginalCancer.txt, Vaginal Cancer
+data/acrguidelines/txt/VaginalCancer.txt, Vaginal Cancer
+data/acrguidelines/txt/AcuteMentalStatusChange.txt, Acute Mental Status Change
+data/acrguidelines/txt/AcuteMentalStatusChange.txt, Acute Mental Status Change
+data/acrguidelines/txt/AcuteMentalStatusChange.txt, Acute Mental Status Change
+data/acrguidelines/txt/AcuteMentalStatusChange.txt, Acute Mental Status Change
+data/acrguidelines/txt/SinonasalDisease.txt, Sinonasal Disease
+data/acrguidelines/txt/SinonasalDisease.txt, Sinonasal Disease
+data/acrguidelines/txt/SinonasalDisease.txt, Sinonasal Disease
+data/acrguidelines/txt/SinonasalDisease.txt, Sinonasal Disease
+data/acrguidelines/txt/SinonasalDisease.txt, Sinonasal Disease
+data/acrguidelines/txt/SoftTissueMasses.txt, Soft Tissue Masses 
+data/acrguidelines/txt/AcuteTraumaToAnkle.txt, Acute Trauma to Ankle
+data/acrguidelines/txt/AcuteTraumaToAnkle.txt, Acute Trauma to Ankle
+data/acrguidelines/txt/AcuteTraumaToAnkle.txt, Acute Trauma to Ankle
+data/acrguidelines/txt/AcuteTraumaToAnkle.txt, Acute Trauma to Ankle
+data/acrguidelines/txt/MovementNeurodegenerativeDisorders.txt, Neurodegenerative Disorders
+data/acrguidelines/txt/ParathyroidAdenoma.txt, Parathyroid Adenoma
+data/acrguidelines/txt/ParathyroidAdenoma.txt, Parathyroid Adenoma
+data/acrguidelines/txt/ParathyroidAdenoma.txt, Parathyroid Adenoma
+data/acrguidelines/txt/ParathyroidAdenoma.txt, Parathyroid Adenoma
+data/acrguidelines/txt/WorkupOfNoncerebralSystemicArterialEmbolization.txt, Noncerebral Systemic Arterial Embolization
+data/acrguidelines/txt/WorkupOfNoncerebralSystemicArterialEmbolization.txt, Noncerebral Systemic Arterial Embolization
+data/acrguidelines/txt/WorkupOfNoncerebralSystemicArterialEmbolization.txt, Noncerebral Systemic Arterial Embolization
+data/acrguidelines/txt/WorkupOfNoncerebralSystemicArterialEmbolization.txt, Noncerebral Systemic Arterial Embolization
+data/acrguidelines/txt/SuddenOnsetColdPainfulLeg.txt, Sudden Onset Cold Painful Leg
+data/acrguidelines/txt/Osteonecrosis.txt, Osteonecrosis
+data/acrguidelines/txt/NontraumaticChestwallPain.txt, Nontraumatic Chest wall Pain
+data/acrguidelines/txt/NontraumaticChestwallPain.txt, Nontraumatic Chest wall Pain
+data/acrguidelines/txt/NontraumaticChestwallPain.txt, Nontraumatic Chest wall Pain
+data/acrguidelines/txt/Hematuria.txt, Hematuria
+data/acrguidelines/txt/AcutePyelonephritis.txt, Acute Pyelonephritis
+data/acrguidelines/txt/AcutePyelonephritis.txt, Acute Pyelonephritis
+data/acrguidelines/txt/AcutePyelonephritis.txt, Acute Pyelonephritis
+data/acrguidelines/txt/AcutePyelonephritis.txt, Acute Pyelonephritis
+data/acrguidelines/txt/PancreaticCyst.txt, Pancreatic Cyst
+data/acrguidelines/txt/PancreaticCyst.txt, Pancreatic Cyst
+data/acrguidelines/txt/PancreaticCyst.txt, Pancreatic Cyst
+data/acrguidelines/txt/VulvarCancer.txt, Vulvar Cancer
+data/acrguidelines/txt/VulvarCancer.txt, Vulvar Cancer
+data/acrguidelines/txt/VulvarCancer.txt, Vulvar Cancer
+data/acrguidelines/txt/AnetenatalHydronpehrosisInfant.txt, Anetenatal Hydronpehrosis in Infants 
+data/acrguidelines/txt/AnetenatalHydronpehrosisInfant.txt, Anetenatal Hydronpehrosis in Infants 
+data/acrguidelines/txt/AnetenatalHydronpehrosisInfant.txt, Anetenatal Hydronpehrosis in Infants 
+data/acrguidelines/txt/AnetenatalHydronpehrosisInfant.txt, Anetenatal Hydronpehrosis in Infants 
+data/acrguidelines/txt/RenovascularHTN.txt, Renovascular Hypertension
+data/acrguidelines/txt/NeckMassAdenopathy.txt, Neck Mass Adenopathy
+data/acrguidelines/txt/VascularMalformationOfExtremity.txt, Vascular Malformation Of Extremity
+data/acrguidelines/txt/VascularMalformationOfExtremity.txt, Vascular Malformation Of Extremity
+data/acrguidelines/txt/OvarianCancer.txt, Ovarian Cancer
+data/acrguidelines/txt/PretreatmentMuscleInvasiveBladderCancer.txt, Pretreatment Muscle Invasive Bladder Cancer
+data/acrguidelines/txt/PostMenopausalAcutePelvicPain.txt, Acute Pelvic PainPostMenopausal Acute Pelvic Pain
+data/acrguidelines/txt/ChronicDyspnea-NoncardiovascularOrigin.txt, Chronic Dyspnea of Noncardiovascular origin  
+data/acrguidelines/txt/ChronicDyspnea-NoncardiovascularOrigin.txt, Chronic Dyspnea of Noncardiovascular origin  
+data/acrguidelines/txt/ChronicDyspnea-NoncardiovascularOrigin.txt, Chronic Dyspnea of Noncardiovascular origin  
+data/acrguidelines/txt/DyspneaSuspectedCardiacOrigin.txt, Dyspnea of Suspected Cardiac Origin 
+data/acrguidelines/txt/DyspneaSuspectedCardiacOrigin.txt, Dyspnea of Suspected Cardiac Origin 
+data/acrguidelines/txt/DyspneaSuspectedCardiacOrigin.txt, Dyspnea of Suspected Cardiac Origin 
+data/acrguidelines/txt/AcutePancreatitis.txt,Acute Pancreatitis
+data/acrguidelines/txt/AcutePancreatitis.txt,Acute Pancreatitis
+data/acrguidelines/txt/AcutePancreatitis.txt,Acute Pancreatitis
+data/acrguidelines/txt/AcutePancreatitis.txt,Acute Pancreatitis
+data/acrguidelines/txt/HNCancer.txt,Head and Neck Cancer
+data/acrguidelines/txt/HNCancer.txt,Head and Neck Cancer
+data/acrguidelines/txt/HNCancer.txt,Head and Neck Cancer
+data/acrguidelines/txt/HNCancer.txt,Head and Neck Cancer
+data/acrguidelines/txt/LowBackPain.txt,Low Back Pain
+data/acrguidelines/txt/LowBackPain.txt,Low Back Pain
+data/acrguidelines/txt/LowBackPain.txt,Low Back Pain
+data/acrguidelines/txt/SBO.txt,Small Bowel Obstruction
+data/acrguidelines/txt/SBO.txt,Small Bowel Obstruction
+data/acrguidelines/txt/ChestPain-ACS.txt, Chest Pain Acute Coronary Syndrome
+data/acrguidelines/txt/ChestPain-ACS.txt, Chest Pain Acute Coronary Syndrome
+data/acrguidelines/txt/NonvaricealUpperGIBlled.txt, Nonvariceal Upper GI Bleed
+data/acrguidelines/txt/BladderCancer.txt, Bladder Cancer
+data/acrguidelines/txt/BladderCancer.txt, Bladder Cancer
+data/acrguidelines/txt/SuspectedSpineInfection.txt,Suspected Spine Infection
+data/acrguidelines/txt/SuspectedSpineInfection.txt,Suspected Spine Infection
+data/acrguidelines/txt/SuspectedSpineInfection.txt,Suspected Spine Infection
+data/acrguidelines/txt/PreproceduralPlanningtranscatheter.txt, Preprocedural Planning Trans Catheter
+data/acrguidelines/txt/PreproceduralPlanningtranscatheter.txt, Preprocedural Planning Trans Catheter
+data/acrguidelines/txt/NuchalTransluceny.txt, Nuchal Translucency  
+data/acrguidelines/txt/NuchalTransluceny.txt, Nuchal Translucency  
+data/acrguidelines/txt/AbnormalLFTs.txt, Abnormal LFTs
+data/acrguidelines/txt/AbnormalLFTs.txt, Abnormal LFTs
+data/acrguidelines/txt/AbnormalLFTs.txt, Abnormal LFTs
+data/acrguidelines/txt/NontraumaticAorticDisease.txt,  Nontraumatic Aortic Disease
+data/acrguidelines/txt/NontraumaticAorticDisease.txt,  Nontraumatic Aortic Disease
+data/acrguidelines/txt/NontraumaticAorticDisease.txt,  Nontraumatic Aortic Disease
+data/acrguidelines/txt/PretreatmentPlanningofInvasiveCancerofCervix.txt, Pretreatment Planning of Invasive Cancer of Cervix
+data/acrguidelines/txt/AbdominalMass.txt, Abdominal Mass
+data/acrguidelines/txt/Angiography.txt, Angiography
+data/acrguidelines/txt/Angiography.txt, Angiography
+data/acrguidelines/txt/TraumaAfterPrimarySurvey.txt, Trauma After Primary Survey
+data/acrguidelines/txt/TraumaAfterPrimarySurvey.txt, Trauma After Primary Survey
+data/acrguidelines/txt/AcuteRespiratoryIllnessinImmunocompromised.txt, Acute Respiratory Illness in Immunocompromised
+data/acrguidelines/txt/ColorectalCancerScreening.txt, Colorectal Cancer Screening
+data/acrguidelines/txt/PenetratingTraumaLowerAbdomenPelvis.txt, Penetrating Trauma Lower Abdomen and Pelvis
+data/acrguidelines/txt/ScrotalPain.txt, Scrotal Pain 
+data/acrguidelines/txt/BluntChestTrauma-SuspectedCardiacInjury.txt, Blunt Chest Trauma with Suspected Cardiac Injury 
+data/acrguidelines/txt/ShoulderPaintraumatic.txt, Traumatic Shoulder Pain 
+data/acrguidelines/txt/ShoulderPaintraumatic.txt, Traumatic Shoulder Pain 
+data/acrguidelines/txt/ShoulderPaintraumatic.txt, Traumatic Shoulder Pain 
+data/acrguidelines/txt/InflammatoryBackPain.txt, Inflammatory Back Pain 
+data/acrguidelines/txt/InflammatoryBackPain.txt, Inflammatory Back Pain 
+data/acrguidelines/txt/InflammatoryBackPain.txt, Inflammatory Back Pain 
+data/acrguidelines/txt/ThoracicOutletSyndrome.txt, Thoracic Outlet Syndrome
+data/acrguidelines/txt/ThoracicOutletSyndrome.txt, Thoracic Outlet Syndrome
+data/acrguidelines/txt/ThoracicOutletSyndrome.txt, Thoracic Outlet Syndrome
+data/acrguidelines/txt/ImagingAfterKneeArthorplasty.txt,Imaging After Knee Arthorplasty 
+data/acrguidelines/txt/ImagingAfterKneeArthorplasty.txt,Imaging After Knee Arthorplasty 
+data/acrguidelines/txt/UTIChild.txt, UTI 
+data/acrguidelines/txt/UTIChild.txt, UTI
+data/acrguidelines/txt/Dysphagia.txt, Dysphagia
+data/acrguidelines/txt/Dysphagia.txt, Dysphagia
+data/acrguidelines/txt/VaginalBleeding2nd3rdTrimester.txt, Vaginal Bleeding in the 2nd or 3rdTrimester
+data/acrguidelines/txt/VaginalBleeding2nd3rdTrimester.txt, Vaginal Bleeding in the 2nd or 3rdTrimester
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/DialysisFistulaMalfx.txt, Dialysis Fistula Malfunction
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/CervicalNeckPain.txt,Cervical Neck Pain
+data/acrguidelines/txt/AdrenalMassEval.txt, Adrenal Mass Evaluation 
+data/acrguidelines/txt/AdrenalMassEval.txt, Adrenal Mass Evaluation 
+data/acrguidelines/txt/AdrenalMassEval.txt, Adrenal Mass Evaluation 
+data/acrguidelines/txt/NonischemicMyocardialDiseaseWithClinical.txt,Nonischemic Myocardial Disease
+data/acrguidelines/txt/NonischemicMyocardialDiseaseWithClinical.txt,Nonischemic Myocardial Disease
+data/acrguidelines/txt/NonischemicMyocardialDiseaseWithClinical.txt,Nonischemic Myocardial Disease
+data/acrguidelines/txt/NonischemicMyocardialDiseaseWithClinical.txt,Nonischemic Myocardial Disease
+data/acrguidelines/txt/NonischemicMyocardialDiseaseWithClinical.txt,Nonischemic Myocardial Disease
+data/acrguidelines/txt/cerebrovascularDisease.txt, Cerebrovascular Disease
+data/acrguidelines/txt/cerebrovascularDisease.txt, Cerebrovascular Disease
+data/acrguidelines/txt/cerebrovascularDisease.txt, Cerebrovascular Disease
+data/acrguidelines/txt/cerebrovascularDisease.txt, Cerebrovascular Disease
+data/acrguidelines/txt/PulmNodule.txt, Pulm Nodule 
+data/acrguidelines/txt/PulmNodule.txt, Pulm Nodule 
+data/acrguidelines/txt/PulmNodule.txt, Pulm Nodule 
+data/acrguidelines/txt/Jaundice.txt, Jaundice
+data/acrguidelines/txt/ProstateCancer.txt, Prostate Cancer
+data/acrguidelines/txt/ProstateCancer.txt, Prostate Cancer
+data/acrguidelines/txt/ProstateCancer.txt, Prostate Cancer
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/CerebrovascularDiseaseChild.txt,Cerebrovascular Disease in Children
+data/acrguidelines/txt/RenalTransplantDysfx.txt, Renal Transplant Dysfunction
+data/acrguidelines/txt/Syncope.txt, Syncope
+data/acrguidelines/txt/ThryoidDisease.txt, Thyroid Disease
+data/acrguidelines/txt/ThryoidDisease.txt, Thyroid Disease
+data/acrguidelines/txt/ThryoidDisease.txt, Thyroid Disease
+data/acrguidelines/txt/ImagingAfterArteroplasty.txt, Imaging After Arteroplasty
+data/acrguidelines/txt/ImagingAfterArteroplasty.txt, Imaging After Arteroplasty
+data/acrguidelines/txt/PelvicFloorDysfx.txt, Pelvic Flood Dysfunction
+data/acrguidelines/txt/PelvicFloorDysfx.txt, Pelvic Flood Dysfunction
+data/acrguidelines/txt/PelvicFloorDysfx.txt, Pelvic Flood Dysfunction
+data/acrguidelines/txt/SupplementalBreastCancerScreening.txt, Supplemental Breast Cancer Screening
+data/acrguidelines/txt/SupplementalBreastCancerScreening.txt, Supplemental Breast Cancer Screening
+data/acrguidelines/txt/SupplementalBreastCancerScreening.txt, Supplemental Breast Cancer Screening
+data/acrguidelines/txt/ImagingAfterMasectomyAndBreastreconstruction.txt, Imaging After Masectomy And Breast Reconstruction
+data/acrguidelines/txt/ImagingAfterMasectomyAndBreastreconstruction.txt, Imaging After Masectomy And Breast Reconstruction
+data/acrguidelines/txt/ImagingAfterMasectomyAndBreastreconstruction.txt, Imaging After Masectomy And Breast Reconstruction
+data/acrguidelines/txt/EvaluationofNippleDischarge.txt,Evaluation of Nipple Discharge
+data/acrguidelines/txt/EvaluationofNippleDischarge.txt,Evaluation of Nipple Discharge
+data/acrguidelines/txt/EvaluationofNippleDischarge.txt,Evaluation of Nipple Discharge
+data/acrguidelines/txt/EvaluationofNippleDischarge.txt,Evaluation of Nipple Discharge
+data/acrguidelines/txt/EvaluationofNippleDischarge.txt,Evaluation of Nipple Discharge
+data/acrguidelines/txt/ChronicHipPain.txt, Chronic Hip Pain 
+data/acrguidelines/txt/ChronicHipPain.txt, Chronic Hip Pain 
+data/acrguidelines/txt/ChronicHipPain.txt, Chronic Hip Pain 
+data/acrguidelines/txt/ChronicHipPain.txt, Chronic Hip Pain 
+data/acrguidelines/txt/LLQPain.txt, Left Lower Quadrant Pain
+data/acrguidelines/txt/ChylothoraxTx.txt, Chylothorax
+data/acrguidelines/txt/MediastinalMasses.txt, Mediastinal Masses
+data/acrguidelines/txt/MediastinalMasses.txt, Mediastinal Masses
+data/acrguidelines/txt/MediastinalMasses.txt, Mediastinal Masses
+data/acrguidelines/txt/StagingOfPancreaticDuctalAdenocarcinoma.txt, Staging Of Pancreatic Ductal Adenocarcinoma
+data/acrguidelines/txt/StagingOfPancreaticDuctalAdenocarcinoma.txt, Staging Of Pancreatic Ductal Adenocarcinoma
+data/acrguidelines/txt/2nd3rdTrimesterScreeningFetalAnomaly.txt, 2nd or 3rd Trimester Screening Fetal Anomaly 
+data/acrguidelines/txt/2nd3rdTrimesterScreeningFetalAnomaly.txt, 2nd or 3rd Trimester Screening Fetal Anomaly 
+data/acrguidelines/txt/Hematospermia.txt, Hematospermia
+data/acrguidelines/txt/HeadTraumaChild.txt, Head Trauma in Children
+data/acrguidelines/txt/HeadTraumaChild.txt, Head Trauma in Children
+data/acrguidelines/txt/BreastCancerScreening.txt, Breast Cancer Screening
+data/acrguidelines/txt/BreastCancerScreening.txt, Breast Cancer Screening
+data/acrguidelines/txt/Stress.txt, Stress
+data/acrguidelines/txt/Stress.txt, Stress
+data/acrguidelines/txt/Stress.txt, Stress
+data/acrguidelines/txt/Stage1BreastCancer.txt, Stage 1 Breast Cancer
+data/acrguidelines/txt/Stage1BreastCancer.txt, Stage 1 Breast Cancer
+data/acrguidelines/txt/AtaxiaChild.txt, Ataxia in Children
+data/acrguidelines/txt/AtaxiaChild.txt, Ataxia in Children
+data/acrguidelines/txt/ChronicAnklePain.txt, Chronic Ankle Pain
+data/acrguidelines/txt/ChronicAnklePain.txt, Chronic Ankle Pain
+data/acrguidelines/txt/ImagininginPregnantLactatingWomen.txt, Imaging in Pregnant Lactating Women
+data/acrguidelines/txt/ImagininginPregnantLactatingWomen.txt, Imaging in Pregnant Lactating Women
+data/acrguidelines/txt/ChronicFootPain.txt, Chronic Foot Pain
+data/acrguidelines/txt/ChronicFootPain.txt, Chronic Foot Pain
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/CranialNeuropathy.txt,Cranial Neuropathy
+data/acrguidelines/txt/RetroperitonealBleed.txt, Retroperitoneal Bleed
+data/acrguidelines/txt/NoninvasiveClinicalSolitaryLungCancer.txt, Noninvasive Clinically Solitary Lung Cancer
+data/acrguidelines/txt/NoninvasiveClinicalSolitaryLungCancer.txt, Noninvasive Clinically Solitary Lung Cancer
+data/acrguidelines/txt/AcuteRespiratoryIllnessInImmunocompetent.txt, Acute Respiratory Illness In Immunocompetent 
+data/acrguidelines/txt/AcuteRespiratoryIllnessInImmunocompetent.txt, Acute Respiratory Illness In Immunocompetent 
+data/acrguidelines/txt/PostmenopausalSubacuteChronicPelvicPain.txt, Postmenopausal Subacute Chronic Pelvic Pain
+data/acrguidelines/txt/MalignantMSKTumor.txt, Malignant Musculoskeletal Tumor
+data/acrguidelines/txt/MalignantMSKTumor.txt, Malignant Musculoskeletal Tumor
+data/acrguidelines/txt/SuspectedAcuteAorticSyndrome.txt, Suspected Acute Aortic Syndrome
+data/acrguidelines/txt/AcuteLimpingChildUpTo5.txt, Acute Limping Child Up To 5
+data/acrguidelines/txt/AcuteLimpingChildUpTo5.txt, Acute Limping Child Up To 5
+data/acrguidelines/txt/OsteoporosisBoneMineralDensity.txt, Osteoporosis Bone Mineral Density
+data/acrguidelines/txt/OsteoporosisBoneMineralDensity.txt, Osteoporosis Bone Mineral Density
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/Headache.txt,Headache
+data/acrguidelines/txt/ImagingAfterSurgery.txt, Imaging After Surgery
+data/acrguidelines/txt/ImagingAfterSurgery.txt, Imaging After Surgery
+data/acrguidelines/txt/ImagingAfterSurgery.txt, Imaging After Surgery
+data/acrguidelines/txt/ImagingAfterSurgery.txt, Imaging After Surgery
+data/acrguidelines/txt/ChronicCough.txt, Chronic Cough
+data/acrguidelines/txt/PostTreatmentFollowupActiveSurveillance.txt, Post Treatment Followup Active Surveillance
+data/acrguidelines/txt/PostTreatmentFollowupActiveSurveillance.txt, Post Treatment Followup Active Surveillance
+data/acrguidelines/txt/hematuriachild.txt, hematuria in children
+data/acrguidelines/txt/hematuriachild.txt, hematuria in children
+data/acrguidelines/txt/EpigastricPain.txt, Epigastric Pain
+data/acrguidelines/txt/EpigastricPain.txt, Epigastric Pain
+data/acrguidelines/txt/EpigastricPain.txt, Epigastric Pain
+data/acrguidelines/txt/SuspectedAppendcititsChild.txt,Appendicitis in Children
+data/acrguidelines/txt/SuspectedAppendcititsChild.txt,Appendicitis in Children
+data/acrguidelines/txt/SuspectedAppendcititsChild.txt,Appendicitis in Children
+data/acrguidelines/txt/SuspectedAppendcititsChild.txt,Appendicitis in Children
+data/acrguidelines/txt/Headtrauma.txt, Head trauma
+data/acrguidelines/txt/Headtrauma.txt, Head trauma
+data/acrguidelines/txt/Headtrauma.txt, Head trauma
+data/acrguidelines/txt/PenetratingNeckInjury.txt, Penetrating Neck Injury
+data/acrguidelines/txt/IntedeterminateRenalMass.txt, Intedeterminate Renal Mass
+data/acrguidelines/txt/IntedeterminateRenalMass.txt, Intedeterminate Renal Mass
+data/acrguidelines/txt/SusNewOnsetandknownnonacuteheart.txt, Suspected New Onset and Known Non-acute heart disease
+data/acrguidelines/txt/MultipleGestations.txt, Multiple Gestations
+data/acrguidelines/txt/MultipleGestations.txt, Multiple Gestations
+data/acrguidelines/txt/SuspectedPulmonaryHTN.txt, Suspected Pulmonary Hypertension
+data/acrguidelines/txt/TesticularCancer.txt, Testicular Cancer
+data/acrguidelines/txt/TesticularCancer.txt, Testicular Cancer
+data/acrguidelines/txt/TesticularCancer.txt, Testicular Cancer
+data/acrguidelines/txt/TesticularCancer.txt, Testicular Cancer
+data/acrguidelines/txt/TesticularCancer.txt, Testicular Cancer
+data/acrguidelines/txt/ChronicWristPain.txt, Chronic Wrist Pain
+data/acrguidelines/txt/ChronicWristPain.txt, Chronic Wrist Pain
+data/acrguidelines/txt/LungCancerScreening.txt, Lung Cancer Screening
+data/acrguidelines/txt/AcuteTraumaFoot.txt, Acute Trauma Foot
+data/acrguidelines/txt/AcuteTraumaFoot.txt, Acute Trauma Foot
+data/acrguidelines/txt/AcuteTraumaFoot.txt, Acute Trauma Foot
+data/acrguidelines/txt/AcuteTraumaFoot.txt, Acute Trauma Foot
+data/acrguidelines/txt/AcuteTraumaFoot.txt, Acute Trauma Foot
+data/acrguidelines/txt/AcuteHipPain-SuspectedFracture.txt, Acute Hip Pain Suspected Fracture
+data/acrguidelines/txt/LowerExtremityClaudiadationImaging.txt, Lower Extremity Claudiadation Imaging
+data/acrguidelines/txt/EvaluationofSympatomaticMaleBreast.txt, Evaluation of Sympatomatic Male Breast
+data/acrguidelines/txt/EvaluationofSympatomaticMaleBreast.txt, Evaluation of Sympatomatic Male Breast
+data/acrguidelines/txt/RLQPain.txt, Right Lower Quadrant Pain
+data/acrguidelines/txt/PalpableBreastMass.txt,Palpable Breast Mass
+data/acrguidelines/txt/PalpableBreastMass.txt,Palpable Breast Mass
+data/acrguidelines/txt/PalpableBreastMass.txt,Palpable Breast Mass
+data/acrguidelines/txt/PalpableBreastMass.txt,Palpable Breast Mass
+data/acrguidelines/txt/femaleInfertility.txt, female Infertility
+data/acrguidelines/txt/femaleInfertility.txt, female Infertility
+data/acrguidelines/txt/femaleInfertility.txt, female Infertility
+data/acrguidelines/txt/femaleInfertility.txt, female Infertility
+data/acrguidelines/txt/TransgenderBreastCancerScreening.txt,Transgender Breast Cancer Screening 
+data/acrguidelines/txt/TransgenderBreastCancerScreening.txt,Transgender Breast Cancer Screening 
+data/acrguidelines/txt/TransgenderBreastCancerScreening.txt,Transgender Breast Cancer Screening 
+data/acrguidelines/txt/TransgenderBreastCancerScreening.txt,Transgender Breast Cancer Screening 
+data/acrguidelines/txt/SeizuresAndEpilepsy.txt, Seizures And Epilepsy
+data/acrguidelines/txt/SeizuresAndEpilepsy.txt, Seizures And Epilepsy
+data/acrguidelines/txt/SeizuresAndEpilepsy.txt, Seizures And Epilepsy
+data/acrguidelines/txt/SeizuresAndEpilepsy.txt, Seizures And Epilepsy
+data/acrguidelines/txt/ChronicExtremity.txt, Chronic Extremity
+data/acrguidelines/txt/ChronicExtremity.txt, Chronic Extremity
+data/acrguidelines/txt/AcuteHandWristTrauma.txt, Acute Hand Wrist Trauma 
+data/acrguidelines/txt/AcuteHandWristTrauma.txt, Acute Hand Wrist Trauma 
+data/acrguidelines/txt/AcuteHandWristTrauma.txt, Acute Hand Wrist Trauma 
+data/acrguidelines/txt/Myelopathy.txt, Myelopathy 
+data/acrguidelines/txt/AcutePelvicPain.txt, Acute Pelvic Pain
+data/acrguidelines/txt/AcutePelvicPain.txt, Acute Pelvic Pain
+data/acrguidelines/txt/AcutePelvicPain.txt, Acute Pelvic Pain
+data/acrguidelines/txt/AcutePelvicPain.txt, Acute Pelvic Pain
+data/acrguidelines/txt/StagingColorectalCancer.txt, Staging Colorectal Cancer.
+data/acrguidelines/txt/StagingColorectalCancer.txt, Staging Colorectal Cancer.
+data/acrguidelines/txt/AcuteNonlocalizedAbdominalPain.txt, Acute Non-localized Abdominal Pain
+data/acrguidelines/txt/AcuteNonlocalizedAbdominalPain.txt, Acute Non-localized Abdominal Pain
+data/acrguidelines/txt/BackPainChild.txt, Back Pain in Children
+data/acrguidelines/txt/BackPainChild.txt, Back Pain in Children
+data/acrguidelines/txt/ScoliosisChild.txt, Scoliosis
+data/acrguidelines/txt/headacheChild.txt, headache in childrenggg
+data/acrguidelines/txt/ChronicelbowPain.txt, Chronic Elbow Pain
+data/acrguidelines/txt/ChronicelbowPain.txt, Chronic Elbow Pain
+data/acrguidelines/txt/ChronicelbowPain.txt, Chronic Elbow Pain
+data/acrguidelines/txt/ChronicelbowPain.txt, Chronic Elbow Pain
+data/acrguidelines/txt/VomitingInInfants.txt, Vomiting In Infants
+data/acrguidelines/txt/VomitingInInfants.txt, Vomiting In Infants
+data/acrguidelines/txt/VomitingInInfants.txt, Vomiting In Infants
+data/acrguidelines/txt/ScrotalAbnormality.txt, Scrotal Abnormality
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/BreatImplantEval.txt, Breast Implant Evaluation
+data/acrguidelines/txt/ResponseFromBreastCancer.txt, Response From Breast Cancer
+data/acrguidelines/txt/ResponseFromBreastCancer.txt, Response From Breast Cancer
+data/acrguidelines/txt/ResponseFromBreastCancer.txt, Response From Breast Cancer
+data/acrguidelines/txt/ResponseFromBreastCancer.txt, Response From Breast Cancer
+data/acrguidelines/txt/AnorectalDisease.txt, Anorectal Disease
+data/acrguidelines/txt/AnorectalDisease.txt, Anorectal Disease
+data/acrguidelines/txt/AsymptomaticPatientCAD.txt, Asymptomatic Patient with Cerebral Artery Disease
+data/acrguidelines/txt/PlacentaAccretaSpectrumDisorder.txt, Placenta Accreta Spectrum Disorder
+data/acrguidelines/txt/ThoracicAortaInterventionalPlanningAndFollowUp.txt, Thoracic Aorta Interventional Planning And Follow Up
+data/acrguidelines/txt/ThoracicAortaInterventionalPlanningAndFollowUp.txt, Thoracic Aorta Interventional Planning And Follow Up
+data/acrguidelines/txt/PalpableAbdominalMass.txt, Palpable Abdominal Mass
+data/acrguidelines/txt/Hemoptysis.txt, Hemoptysis
+data/acrguidelines/txt/Hemoptysis.txt, Hemoptysis
+data/acrguidelines/txt/CrohnDiseaseChild.txt, Crohn Disease in Children
+data/acrguidelines/txt/CrohnDiseaseChild.txt, Crohn Disease in Children
+data/acrguidelines/txt/OccupationalLungDisease.txt, Occupational Lung Disease
+data/acrguidelines/txt/OccupationalLungDisease.txt, Occupational Lung Disease
+data/acrguidelines/txt/RUQPain.txt, Right Upper Quadrant Pain 
+data/acrguidelines/txt/RUQPain.txt, Right Upper Quadrant Pain 
+data/acrguidelines/txt/RUQPain.txt, Right Upper Quadrant Pain 
+data/acrguidelines/txt/RibFractures.txt, Rib Fractures
+data/acrguidelines/txt/EsophagealCancer.txt, Esophageal Cancer
+data/acrguidelines/txt/EsophagealCancer.txt, Esophageal Cancer
+data/acrguidelines/txt/FirstTrimesterBleeding.txt, First Trimester Bleeding
+data/acrguidelines/txt/ImagingAfterHipArteroplasty.txt, Imaging After Hip Arteroplasty
+data/acrguidelines/txt/ImagingAfterHipArteroplasty.txt, Imaging After Hip Arteroplasty
+data/acrguidelines/txt/ImagingAfterHipArteroplasty.txt, Imaging After Hip Arteroplasty
+data/acrguidelines/txt/Hernia.txt, Hernia
+data/acrguidelines/txt/Hernia.txt, Hernia
+data/acrguidelines/txt/Gestationaltrophoblasticdisease.txt, Gestational trophoblastic disease
+data/acrguidelines/txt/Gestationaltrophoblasticdisease.txt, Gestational trophoblastic disease
+data/acrguidelines/txt/Gestationaltrophoblasticdisease.txt, Gestational trophoblastic disease
+data/acrguidelines/txt/NeuroendocrineImaging.txt, Neuroendocrine Imaging
+data/acrguidelines/txt/NeuroendocrineImaging.txt, Neuroendocrine Imaging
+data/acrguidelines/txt/NeuroendocrineImaging.txt, Neuroendocrine Imaging
+data/acrguidelines/txt/LiverLesion.txt, Liver Lesion
+data/acrguidelines/txt/LiverLesion.txt, Liver Lesion
+data/acrguidelines/txt/LiverLesion.txt, Liver Lesion
+data/acrguidelines/txt/LiverLesion.txt, Liver Lesion
+data/acrguidelines/txt/LiverLesion.txt, Liver Lesion
+data/acrguidelines/txt/Ataxia.txt, Ataxia
+data/acrguidelines/txt/Ataxia.txt, Ataxia
+data/acrguidelines/txt/SuspectedOsteomyelitisSepticArthritis.txt,Suspected Osteomyelitis Septic Arthritis 
+data/acrguidelines/txt/SuspectedOsteomyelitisSepticArthritis.txt,Suspected Osteomyelitis Septic Arthritis 
+data/acrguidelines/txt/SuspectedOsteomyelitisSepticArthritis.txt,Suspected Osteomyelitis Septic Arthritis 
+data/acrguidelines/txt/SuspectedOsteomyelitisSepticArthritis.txt,Suspected Osteomyelitis Septic Arthritis 
+data/acrguidelines/txt/SuspectedOsteomyelitisSepticArthritis.txt,Suspected Osteomyelitis Septic Arthritis 
+data/acrguidelines/txt/LowerExtremityArterialRevasculaizationPostTherapy.txt,Lower Extremity Arterial Revasculaization Post Therapy 
+data/acrguidelines/txt/LowerExtremityArterialRevasculaizationPostTherapy.txt,Lower Extremity Arterial Revasculaization Post Therapy 
+data/acrguidelines/txt/DevelopmentalDysplasiaOfHip.txt, Developmental Dysplasia Of Hip
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/CongenitalAcquiredHeartDisease.txt,Congenital and Acquired Heart Disease
+data/acrguidelines/txt/PretreatmentEvalAndFollowUpEndometralCancer.txt, Pretreatment Evaluation And Follow Up for Endometral Cancer
+data/acrguidelines/txt/PretreatmentEvalAndFollowUpEndometralCancer.txt, Pretreatment Evaluation And Follow Up for Endometral Cancer
+data/acrguidelines/txt/PretreatmentEvalAndFollowUpEndometralCancer.txt, Pretreatment Evaluation And Follow Up for Endometral Cancer
+data/acrguidelines/txt/ChronicShoulderPain.txt,Chronic Shoulder Pain
+data/acrguidelines/txt/ChronicShoulderPain.txt,Chronic Shoulder Pain
+data/acrguidelines/txt/ChronicShoulderPain.txt,Chronic Shoulder Pain
+data/acrguidelines/txt/ChronicShoulderPain.txt,Chronic Shoulder Pain
+data/acrguidelines/txt/ChronicShoulderPain.txt,Chronic Shoulder Pain
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/MajorBluntTrauma.txt,Major Blunt Trauma
+data/acrguidelines/txt/AAAFollowupWithoutRepair.txt, Abdominal Aortic Aneurysm Without Repair
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/ImagingOfAxilla.txt,Axilla
+data/acrguidelines/txt/RoutineChestImaging.txt, Routine Chest Imaging
+data/acrguidelines/txt/PrimaryBoneTumors.txt,Primary Bone Tumor
+data/acrguidelines/txt/PrimaryBoneTumors.txt,Primary Bone Tumor
+data/acrguidelines/txt/PrimaryBoneTumors.txt,Primary Bone Tumor
+data/acrguidelines/txt/PrimaryBoneTumors.txt,Primary Bone Tumor
+data/acrguidelines/txt/TBimaging.txt, TB Imaging
+data/acrguidelines/txt/BreastPain.txt, Breast pain
+data/acrguidelines/txt/SuspectedSpineTrauma.txt,Suspected Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTrauma.txt,Suspected Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTrauma.txt,Suspected Spine Trauma
+data/acrguidelines/txt/SuspectedSpineTrauma.txt,Suspected Spine Trauma
+data/acrguidelines/txt/GravidCervix.txt, Gravid Cervix
+data/acrguidelines/txt/SuspectedPulmonaryEmbolism.txt, Suspected Pulmonary Embolism
+data/acrguidelines/txt/SuspectedPulmonaryEmbolism.txt, Suspected Pulmonary Embolism
+data/acrguidelines/txt/SuspectedPulmonaryEmbolism.txt, Suspected Pulmonary Embolism
+data/acrguidelines/txt/ChronicChestPain-Noncardiacunlikely.txt, Chronic Chest Pain Unlikely Noncardiac
+data/acrguidelines/txt/CrohnDisease.txt, Crohn Disease 
+data/acrguidelines/txt/ImagingofDeepInferiorEpigastricArteriesforSurgicalPlanning(Breast Reconstruction Surgery).txt, Imaging of Deep Inferior Epigastric Arteries

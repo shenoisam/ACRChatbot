@@ -9,6 +9,6 @@ from langchain.llms import LlamaCpp
 class AlpacaModel(Model):
     def __init__(self):
         self.embeddings = LlamaCppEmbeddings(model_path="./alpaca.cpp/ggml-alpaca-7b-q4.bin")
-        self.llm = LlamaCpp(model_path="./alpaca.cpp/ggml-alpaca-7b-q4.bin")
+        self.llm = LlamaCpp(model_path="./alpaca.cpp/ggml-alpaca-7b-q4.bin",n_ctx=2048)
         self.rds = None
 

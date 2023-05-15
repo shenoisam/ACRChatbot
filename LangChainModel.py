@@ -4,13 +4,14 @@
 
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
-from langchain.document_loaders import TextLoader,DirectoryLoader
+from langchain.document_loaders import TextLoader,DirectoryLoader, PyPDFLoader
 from langchain.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
+import csv
 from langchain.prompts import (
     ChatPromptTemplate,
     PromptTemplate,
@@ -34,31 +35,64 @@ class Model:
         )
         return prompt
 
-    def generateIndex(self,index_name, filename="data/PracticeGuidelines/Diagnositic/txt/1Test"):
+    def generateIndex(self,indexname, filename="data/acrguidelines/txt/temp"):
         loader = DirectoryLoader(filename, glob="*.txt")
         documents = loader.load()
         text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
         docs = text_splitter.split_documents(documents)
+
         rds = Chroma.from_documents(documents=docs, embedding=self.embeddings, persist_directory=indexname)
         rds.persist()
-        rds = None
-        print("Index Created")
         return rds
 
-    def getIndex(self):
+    def moreIntelligentIndex(self,indexname, filename="data/acrguidelines/txt"):
+        loader = DirectoryLoader(filename, glob="*.txt")
+        documents = loader.load()
+        text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+        docs = text_splitter.split_documents(documents)
+
+        data = []
+        with open('out.tsv', newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+            for row in spamreader:
+                print(row)
+                data.append((row[0],row[1]))
+
+        for d in docs[0:10]:
+            condition = None
+            for i in data:
+                if i[0] == d.metadata["source"]:
+                    condition = i[1]
+                    break
+            d.metadata["condition"] = condition
+        vectorstore = Chroma.from_documents(documents=docs, embedding=self.embeddings, persist_directory=indexname)
+        return vectorstore
+    def self_query(self,vectorstore,query):
+        metadata_field_info=[
+            AttributeInfo(
+                name="condition",
+                description="A particular clinical condition",
+                type="string"
+            ),
+        ]
+        document_content_description = "ACR imaging recommendations"
+        retriever = SelfQueryRetriever.from_llm(self.llm, vectorstore, document_content_description, metadata_field_info, verbose=True)
+        return retriever.get_relevant_documents(query)
+    def getIndex(self,index):
         if self.rds is None:
-            rds = Chroma(persist_directory="index", embedding_function=self.embeddings)
+            rds = Chroma(persist_directory=index, embedding_function=self.embeddings)
             self.rds = rds
         return self.rds
 
-    def test(self,query):
-        index = self.getIndex()
-        qa = RetrievalQA.from_chain_type(llm=self.llm, chain_type="map_reduce", retriever=index.as_retriever())
+    def test(self,query,index="indexComplete"):
+        index = self.getIndex(index)
+        qa = RetrievalQA.from_chain_type(llm=self.llm, chain_type="refine", retriever=index.as_retriever())
         print(qa.run(query))
 
-    def run(self,query):
-        index = self.getIndex()
-        question_prompt_template = """Use the following portion of a long document to see if any of the text is relevant to answer the question.
+
+    def run(self,query,index="indexComplete"):
+        index = self.getIndex(index)
+        question_prompt_template = """You are a radiology support bot. Use the following portion of a long document to see if any of the text applies to the provided clinical case.
             {context}
             Question: {question}
             Relevant text, if any:"""

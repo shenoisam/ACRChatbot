@@ -1,6 +1,9 @@
 .env
 data/*
 __pycache__/*
-index/*
-amazon/*
+index*
+amazon
 venv/
+.chroma
+amazon
+alpaca.cpp/*

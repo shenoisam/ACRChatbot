@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 #load_dotenv()
 from LangChainModel import Model
 from AlpacaModel import AlpacaModel
+#from LlamaIndex import IndexModel
 from flask import Flask, render_template, request
-
 # Based off of: https://medium.com/@kumaramanjha2901/building-a-chatbot-in-python-using-chatterbot-and-deploying-it-on-web-7a66871e1d9b
 
 # Set the maximum number of tokens to generate in the response
@@ -24,13 +24,15 @@ def get_bot_response():
     return runModel(userText)
 
 def runModel(query,gen_ndx=False):
-    if gen_ndx:
-        for i in range(0,10): 
-            AlpacaModel().generateIndex(f"index{i}",f"data/PracticeGuidelines/Diagnositic/txt/{i}Test")
+    #if gen_ndx:
+    #    AlpacaModel().generateIndex("indexACR")
 
-    AlpacaModel().run(query)
-
+    AlpacaModel().run(query,"indexACR")
+def testModel():
+    m = AlpacaModel()
+    v_store = m.moreIntelligentIndex("indexACR")
+    print(m.self_query(v_store,"What are the imaging recommendations for Chronic Venous Disease"))
 
 if __name__ == "__main__":
-    
-    runModel("A 56-year-old woman presents with a history of large palpable left breast mass.",True)
+    testModel()
+    #runModel("A 8 year old male presents with back pain. Which type of imaging is indicated?",False)
